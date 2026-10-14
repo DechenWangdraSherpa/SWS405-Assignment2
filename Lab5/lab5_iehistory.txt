@@ -1,0 +1,6 @@
+**************************************************
+Process: 1396 explorer.exe
+Cache type "DEST" at 0x635910f
+Last modified: 2019-12-20 09:16:37 UTC+0000
+Last accessed: 2019-12-20 03:46:38 UTC+0000
+URL: Alissa Simpson@file:///C:/Windows/AppPatch/ZmxhZ3shIV93M0xMX2QwbjNfU3Q0ZzMtMV8wZl9MNEJfNV9EMG4zXyEhfQ.bmp

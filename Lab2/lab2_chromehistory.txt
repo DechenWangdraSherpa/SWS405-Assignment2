@@ -1,0 +1,2 @@
+*** Failed to import volatility.plugins.chromehistory (ImportError: No module named csv)
+*** Failed to import volatility.plugins.firefoxhistory (ImportError: No module named csv)
