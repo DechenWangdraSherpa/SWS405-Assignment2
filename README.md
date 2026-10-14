@@ -7,9 +7,6 @@
 | **Student Number** | 02230281 |
 | **Programme** | Software Engineering Programme, College of Science and Technology |
 | **Module** | SWS405 – Digital Forensics |
-| **Module Tutor** | Pema Thinley |
-| **Semester** | Autumn Semester 2026 |
-| **Submission** | Individual Assignment |
 
 ---
 
